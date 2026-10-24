@@ -1,7 +1,7 @@
 {
-  "version": "0.0.0",
-  "downloadUrl": "https://github.com/notsxyko/Relaunch/releases/download/v1.0.0/RelaunchSetup.exe",
-  "changelog": "Initial release with Discovery, Music Player, and simplified Launch/Host pages.",
-  "releaseDate": "2024-01-15",
+  "version": "1.1.0",
+  "downloadUrl": "https://github.com/notsxyko/Relaunch/releases/download/v1.1.0/RelaunchSetup-1.1.0.exe",
+  "changelog": "Auto Updates",
+  "releaseDate": "2026-10-24",
   "mandatory": false
 }
